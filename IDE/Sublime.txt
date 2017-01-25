@@ -8,4 +8,4 @@ Terminal
 Vue Syntax Highlight
 
 [TODO]
-see if you can get a way to sync all configurations over multiple machine.
+see if you can get a way to sync all configurations over multiple machine. 
